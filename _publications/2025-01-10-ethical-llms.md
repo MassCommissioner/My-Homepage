@@ -5,10 +5,9 @@ category: manuscripts
 permalink: /publication/2025-01-10-ethical-llms
 excerpt: 'This study examines ethical challenges in LLM deployment, including bias mitigation and privacy concerns, proposing a framework for responsible AI integration.'
 date: 2025-01-10
-venue: 'Published at Advances in Neural Information Processing Systems 37 (NeurIPS 2024)'
+venue: 'Advances in Neural Information Processing Systems 37 (NeurIPS 2024)'
 slidesurl: 'http://yourwebsite.com/files/slides-ethical-llms.pdf'
 paperurl: 'http://yourwebsite.com/files/paper-ethical-llms.pdf'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-ethical-llms.bib'
-codeurl: 'https://github.com/mcptest-user/enhancing-llms'
-citation: 'John Smith, et al. (2025). "Ethical Considerations in Deploying LLMs for Real-World Applications." <i>Published at Advances in Neural Information Processing Systems 37 (NeurIPS 2024)</i>.'
+citation: 'John Smith, et al. (2025). "Ethical Considerations in Deploying LLMs for Real-World Applications." <i>Advances in Neural Information Processing Systems 37 (NeurIPS 2024)</i>.'
 ---
